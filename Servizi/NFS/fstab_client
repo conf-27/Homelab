@@ -1,0 +1,2 @@
+# nfs server1
+server1:/media/nfs	/nfs/server1	nfs4	defaults,user,exec	0	0
