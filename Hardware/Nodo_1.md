@@ -1,7 +1,9 @@
-`Debian 13`
+HOSTNAME: `server1`
 
-`Intel(R) Celeron(R) CPU  N2840  @ 2.16GHz`
+SO: `Debian 13`
 
-`120 GB Sata SSD`
+CPU: `Intel(R) Celeron(R) CPU  N2840  @ 2.16GHz`
 
-`8 GB DDR3L RAM`
+STORAGE: `120 GB Sata SSD`
+
+RAM: `8 GB DDR3L`
