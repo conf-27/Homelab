@@ -1,9 +1,11 @@
-#Macchina principale
+### Macchina principale
 
-`Arch Linux`
+HOSTNAME: `mainArch`
 
-`AMD Ryzen 3 5300U (8) @ 3.90 GHz`
+SO: `Arch Linux`
 
-`256 GB NVME SSD`
+CPU: `AMD Ryzen 3 5300U (8) @ 3.90 GHz`
 
-`8 GB DDR4L RAM`
+STORAGE: `256 GB NVME SSD`
+
+RAM `8 GB DDR4L`
