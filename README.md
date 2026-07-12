@@ -7,7 +7,7 @@ graph TD
     Internet --> Router
     Router --> Nodo1
     Router --> mainArch
-    Nodo1 --> NFS
-    Nodo1 --> Docker
+    server1 --> NFS
+    server1 --> Docker
 ```
 
