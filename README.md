@@ -9,5 +9,7 @@ graph TD
     Router --> mainArch
     server1 --> NFS
     server1 --> Docker
+    Docker --> Beszel
+    Docker --> Immich
 ```
 
