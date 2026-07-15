@@ -12,8 +12,12 @@ To                         Action      From
 
 45876                       ALLOW       Anywhere
 
+2283                       ALLOW IN    Anywhere
+
 22/tcp (v6)                ALLOW       Anywhere (v6)
 
 2049 (v6)                  ALLOW       Anywhere (v6)
 
 45876 (v6)                 ALLOW       Anywhere (v6)
+
+2283 (v6)                  ALLOW IN    Anywhere (v6)
